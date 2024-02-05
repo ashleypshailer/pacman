@@ -1,2 +1,3 @@
 # pacman
-This is a PacMan javascript exercise done as part of the MIT Coding bootcamp. 
+What is this?
+This is a JavaScript coding assignment through the MIT coding bootcamp. It is meant to show movement by using SetInterval logic, arrays and loops.
